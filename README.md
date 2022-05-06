@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Reactimization é uma reutilização de uma aplicação em React (WatchMe) onde colocamos em prática os conceitos relacionados a otimização/performance.
+Reactimization é a reutilização de uma aplicação em React (WatchMe) onde colocamos em prática os conceitos relacionados a otimização/performance.
 
 Este é um projeto desenvolvido como prática das aulas do Chapter V da trilha ReactJS do **[Programa Ignite](https://www.rocketseat.com.br/ignite)** da Rocketseat.
 
